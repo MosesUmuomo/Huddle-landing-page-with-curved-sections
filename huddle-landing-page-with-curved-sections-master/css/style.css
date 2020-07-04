@@ -1,0 +1,178 @@
+*{
+    margin: 20px;
+    padding: 0;
+}
+
+img{
+    margin-top: 15px;
+    margin-left: 20px;
+    
+}
+
+/*Header Section*/
+#head{
+    color: hsl(322, 100%, 66%);
+    text-align: right;
+    border: 1.5px solid  hsl(322, 100%, 66%);
+    border-radius: 20px;
+    box-shadow: 5px 10px 8px #f5f5ef;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    float: right;
+    margin-top: 3px;
+}
+
+/*Main Section*/
+main h1, h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+main p{
+    font-family: 'Open Sans', sans-serif;
+}
+.section h1{
+    font-size: 30px;
+    text-align: center;
+}
+.section p{
+    font-size: 14px;
+    text-align: center;
+    padding: 4px;
+}
+.button{
+    background-color: hsl(322, 100%, 66%);
+    border-style: none;
+    border-radius: 25px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 25%;
+    margin-left: 35%;
+    font-size: large;
+    box-shadow: 0 8px 16px 0px #ebebe0;
+}
+.section img{
+    margin-left: 60px;
+}
+
+/* Com & Mess Section*/
+.com{
+    margin-left: 10%;
+}
+.com h3{
+    font-size: 50px;
+    font-weight: 900;
+}
+.com p{
+    color: gray;
+}
+.mess{
+    float: right;
+    margin-top: -17%;
+    margin-right: 30%;
+}
+.mess h3{
+    font-size: 50px;
+    font-weight: 900;
+}
+.mess p{
+    color: gray;
+}
+
+/*Grow together section & your users section*/
+.grow-together, .your-users{
+    background: hsl(207, 100%, 98%);
+    margin-top: 10%;
+}
+.grow-together-img, .your-users-img{
+    width: 40%;
+    margin-left: 60%;
+}
+.grow-together-text, .your-users-text{
+    width: 55%;
+    float: left;
+    margin-top: -25%;
+}
+
+/*Flowing-coversation*/
+.flow-convo{
+    margin-top: 10%;
+}
+.flow-convo img{
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
+}
+.flow-convo-text{
+    width: 55%;
+    display: inline-block;
+    position: relative;
+    left: 15%;
+    bottom: 4rem;
+}
+
+.built-your-community h1{
+    margin-top: 10%;
+    text-align: center;
+}
+
+/* Contact Details*/
+.contact-us{
+    padding: 5%;
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
+.contact-us-details{
+    width: 30%;
+}
+.details-heading-icon{
+    fill: white;
+}
+.details-header{
+    margin-left: 75px;
+    margin-top: -20%;
+}
+.icon-phone-p, .icon-email-p{
+    margin-left: 50px;
+    margin-top: -13%;
+}
+.contact-us-newsletter{
+    float: right;
+    margin-top: -30%;
+    margin-right: 40px;
+}
+input[type=text]{
+    width: 50%;
+    padding: 12px 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+}
+input[type=submit]{
+    width: 30%;
+    padding: 12px 10px;
+    margin: 5px 20px;
+    box-sizing: border-box;
+    border: 2px solid hsl(322, 100%, 66%);
+    border-radius: 4px;
+    background-color: hsl(322, 100%, 66%);
+    color: #fff;
+    font-weight: 600;
+}
+
+  footer .attribution{
+    font-size: 20px;
+  }
+  .attribution a{
+    text-decoration: none;
+    color: #ff4d97; 
+}
+
+
+
+  
+  
